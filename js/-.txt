@@ -1,0 +1,11 @@
+1. app : Permis de conduire :
+seul les personnes de 18 et plus peuvent conduire, les autres ne peuvent pas.
+
+
+2. Billeterie Puy du fou
+En dessous de 5 ans : gratuit
+5ans à 12ans : 20 euros
+12ans à 18ans : 25 euros
++18ans : 35 euros
+
+formulaire : prompt()*
